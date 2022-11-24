@@ -4,7 +4,7 @@ This is a collection of components that I started
 1) as a learning project to get to know how to use SketchUp 
 2) to create a MMCNC (Mostly Metal CNC) router. 
 
-These components were made with SketchUp v. 8.0
+These components were made with SketchUp v. 8.0 (the free version from Google)
 
 The MMCNC router design was made using this set of components and it is added as an example. I am planning to build a prototype of this setup in the future. So, before you start building it yourself. Keep in mind that this is just a brain dump, not a workable plan for a guaranteed perfectly working machine. Also the motor mount for the router is missing because I do not have the dimensions for a router yet. 
 I started the design of the MMCNC router after viewing a video from Thomas Sanladerer,  
